@@ -11,8 +11,6 @@ Este é um projeto simples que calcula a soma de todos os números inteiros posi
 
 Para usar a aplicação, siga os passos abaixo:
 
-* Primeira opção:
-
 1. Acesse a página da aplicação no GitHub Pages: [https://izjoey.github.io/escribo_challenge1_dart/](https://izjoey.github.io/escribo_challenge1_dart/).
 2. Digite um número no input.
 3. Clique no botão "Calcular".
