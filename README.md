@@ -15,7 +15,6 @@ Para usar a aplicação, siga os passos abaixo:
 2. Digite um número no input.
 3. Clique no botão "Calcular".
 
-<br />
 
 **Instruções de teste:**
 ====
